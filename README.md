@@ -1,33 +1,70 @@
-> ⭐ ***README** to coś więcej niż opis. Poprzez nie **pokazujesz swoje mocne strony** – swoją dokładność, sposób myślenia i podejście do rozwiązywania problemów. Niech Twoje README pokaże, że masz **świetne predyspozycje do rozwoju!***
-> 
-> 🎁 *Zacznij od razu. Skorzystaj z **[szablonu README i wskazówek](https://github.com/devmentor-pl/readme-template)**.* 
+# Getting Started with Create React Table
 
-&nbsp;
+This project was bootstrapped with [Create React Table](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-# Table
+In the project directory, you can run:
 
-Dane [tabelaryczne](https://sjp.pwn.pl/slowniki/tabelaryczny.html) zgodnie ze [specyfikacją HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/tabular-data.html) umieszczamy wykorzystując znacznik `<table>` i pokrewne.
+### `npm start`
 
-Przedstawienie tych danych w wygodny sposób tj. z możliwością podziału na mniejsze części (paginacja), filtrowanie czy ich sortowanie jest bardzo przydatne. Tworzenie tych funkcjonalności za każdym razem jest niepotrzebną stratą czasu.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Pewnie dlatego tak bardzo popularną bibioteką jest [`material-table`](https://github.com/mbrn/material-table), która jest pobiera tygodniowo z [npmjs.com w ilości 100 tysięcy](https://www.npmjs.com/package/material-table).
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Twoim zdaniem będzie napisanie podobnego rozwiązania z podstawową funkcjonalnością, które będzie posiadać testy sprawdzające działanie Twojej biblioteki.
+### `npm test`
 
-Wersja MVP powinna zawierać:
-- prezentację danych z paginacją
-- możliwość filtrowania zawartości ([przykład z `material-table`](https://material-table.com/#/docs/features/filtering))
-- możliwość sortowania danych po kolumnie ([przykład z `material-table`](https://material-table.com/#/docs/features/sorting))
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Sposób podejścia do zadania i jego rozwiązanie pozostawiam Tobie. Środowiskiem testowym może być jak najbardziej `create-react-app`.
+### `npm run build`
 
-Zanim przejdziesz do działania proponuje zapoznać się dokładniej jak działa `material-table`. Możesz zacząć od [wideo na YouTube](https://www.youtube.com/watch?v=0YqZ9837dIE), a potem zaimplemntować kilka swoich rozwiazań.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-&nbsp;
+### `npm run eject`
 
-> ⭐ ***README** to coś więcej niż opis. Poprzez nie **pokazujesz swoje mocne strony** – swoją dokładność, sposób myślenia i podejście do rozwiązywania problemów. Niech Twoje README pokaże, że masz **świetne predyspozycje do rozwoju!***
-> 
-> 🎁 *Zacznij od razu. Skorzystaj z **[szablonu README i wskazówek](https://github.com/devmentor-pl/readme-template)**.* 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React Table documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web Table
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
