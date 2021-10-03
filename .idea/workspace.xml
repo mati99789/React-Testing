@@ -2,55 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae0add92-1767-400d-be0f-c3540c86860b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/task-react-testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.old.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/TableCell/TableCell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Title/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Title/Title.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/FormField/FormField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/FormField/FormField.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/THeading/THeading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/TableBody/TableBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/TableRow/TRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Form/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Form/Form.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Navigation/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Navigation/Navigation.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Table/Table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/Table/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/templates/MainTemplate/MainTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/templates/MainTemplate/MainTemplate.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/userData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/AddUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/TableView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/organism/Table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organism/Table/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/TableView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TableView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +41,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/atoms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="wsl://Ubuntu@/home/mateusz/.nvm/versions/node/v14.16.0/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -120,6 +78,7 @@
       <workItem from="1632840387862" duration="10075000" />
       <workItem from="1632891156803" duration="637000" />
       <workItem from="1632929234626" duration="634000" />
+      <workItem from="1633255773718" duration="2432000" />
     </task>
     <servers />
   </component>

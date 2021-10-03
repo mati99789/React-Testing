@@ -3,7 +3,7 @@ import { Box } from '@mui/material';
 import Table from '../components/organism/Table/Table';
 import Title from '../components/atoms/Title/Title';
 
-const TableView = () => {
+const TableView = ({ data }) => {
   return (
     <Box
       sx={{
@@ -14,7 +14,7 @@ const TableView = () => {
       }}
     >
       <Title title="Users Table" />
-      <Table />
+      <Table data={data} />
     </Box>
   );
 };

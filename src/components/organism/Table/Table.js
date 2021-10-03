@@ -1,14 +1,12 @@
 import React from 'react';
 import { Table, TableContainer, Paper, Box } from '@mui/material';
 import './Table.css';
-import Title from '../../atoms/Title/Title';
 import THeading from '../../molecules/THeading/THeading';
-import data from '../../../data/userData';
 import TRow from '../../molecules/TableRow/TRow';
 import TCell from '../../atoms/TableCell/TableCell';
 import TBody from '../../molecules/TableBody/TableBody';
 
-export default function BasicTable() {
+export default function BasicTable({ data }) {
   return (
     <>
       <Box>
