@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0add92-1767-400d-be0f-c3540c86860b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Pagination/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/Pagination/Pagination.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/formFieldData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/usePagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/providers/TableHandlerProvider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/TableBody/TableBody.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/TableBody/TableBody.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organism/Form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organism/Form/Form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organism/Table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organism/Table/Table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/MainTemplate/MainTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/MainTemplate/MainTemplate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/userData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/userData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/TableView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TableView.js" afterDir="false" />
-    </list>
+    <list default="true" id="ae0add92-1767-400d-be0f-c3540c86860b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +44,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -88,12 +73,40 @@
       <workItem from="1632840387862" duration="10075000" />
       <workItem from="1632891156803" duration="637000" />
       <workItem from="1632929234626" duration="634000" />
-      <workItem from="1633446885532" duration="9318000" />
+      <workItem from="1633446885532" duration="11306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="dd5c2552-b9bb-4a89-8e56-303f346a5946">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

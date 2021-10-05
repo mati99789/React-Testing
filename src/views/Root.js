@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import MainTemplate from '../components/templates/MainTemplate/MainTemplate';
 import AddUser from './AddUser';
 import TableView from './TableView';
+
 import TableHandlerProvider from '../providers/TableHandlerProvider';
 
 const Root = () => {
