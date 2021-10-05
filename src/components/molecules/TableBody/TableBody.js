@@ -1,27 +1,24 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React, { useContext } from 'react';
 import { TableBody } from '@mui/material';
-
 import TRow from '../TableRow/TRow';
 import TCell from '../../atoms/TableCell/TableCell';
+import { TableHandlerContext } from '../../../providers/TableHandlerProvider';
 
-const TBody = ({ data }) => {
+const TBody = () => {
+  const { sortTable } = useContext(TableHandlerContext);
+
   return (
     <TableBody>
-      {data.map((row) => (
-        <TRow key={`${row.name} ${row.lastName}`}>
-          <TCell>{row.name}</TCell>
-          <TCell>{row.lastName}</TCell>
-          <TCell>{row.email}</TCell>
-          <TCell>{row.phoneNumber}</TCell>
+      {sortTable().map((row) => (
+        <TRow key={`${row.Name} ${row['Last Name']}`}>
+          <TCell>{row.Name}</TCell>
+          <TCell>{row['Last Name']}</TCell>
+          <TCell>{row.Email}</TCell>
+          <TCell>{row['Phone Number']}</TCell>
         </TRow>
       ))}
     </TableBody>
   );
-};
-
-TBody.propTypes = {
-  data: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 
 export default TBody;
